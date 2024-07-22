@@ -1,4 +1,4 @@
-Future Backtest with 100 SL
+# Future Backtest with 100 SL
 
 This repository contains a Python program to perform a backtest on historical future data for the 'banknifty' and 'nifty' indices, applying a strategy involving stop-loss (SL) and profit-taking targets. The program retrieves data from a MongoDB database, processes the data, and saves the results to a CSV file.
 
